@@ -1,5 +1,16 @@
 # chroot_archlinux_android
-Install chroot Archlinux on Android
+Install chroot Archlinux in Android tablet
+
+# Device Info
+
+This isa tablet,  made in China/Shenzhen.
+
+* CPU: RK3066
+* 1G DDR3
+* 10.1 inch 1280 x 80
+* Memory: 8G
+* OS: Android 4.1.1
+
 
 # Requirment
 
